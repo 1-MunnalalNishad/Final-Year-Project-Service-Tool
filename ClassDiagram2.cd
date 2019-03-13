@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dashboard.Archiving" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAQAAAAAAAAAAAgAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Archiving.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Audio_Rec" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAQAICAACAAAAACAIACCBAA4AAAAAHAAAQAgAAA=</HashCode>
+      <FileName>Audio Rec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.browser" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAgABAAAACAAAASAMA7AAAAkAAPAAgAAAA=</HashCode>
+      <FileName>browser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Calander" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAIAACAAA4AAAAEHAAAQAAAAA=</HashCode>
+      <FileName>Calander.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Class1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.facebook" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>facebook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.fileCompression" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAEAAACAAIACgAAYAAAgAGAAAQEAAAA=</HashCode>
+      <FileName>fileCompression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Fileinfo" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAABAABAAARAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fileinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Form1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yxAAAAQISAAAJAAAACAjIQSAAAPIAAEIOQAAQBvQAQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.imageviewer" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAUAKCCQgAAJBCAAIACIAAcAAACAGAAAYAAQAI=</HashCode>
+      <FileName>imageviewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Form2" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACCAAAAAAACAAIQCAMA5AAgAAHAKAQBAAAA=</HashCode>
+      <FileName>mp3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Mp3_Player" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAACgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mp3_Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.splashscreen" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABAAAACAAAACAAAAIAACAAAAAQBAAAA=</HashCode>
+      <FileName>splashscreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.videoplayer" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGSAQIFAACAgQhAAABCAQJASAMS7IIACkHFfAQBHxAA=</HashCode>
+      <FileName>videoplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.web" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>web.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.XtraForm1" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kBEIQQAIxCQECEwAGAKEQJCSARAEBEQAQAAAABwgACA=</HashCode>
+      <FileName>XtraForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.youtube" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAJAAACAgABABAACAAAACAMw7AIAgEDAQAQBCAAA=</HashCode>
+      <FileName>youtube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
